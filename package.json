@@ -1,0 +1,14 @@
+{
+  "name": "yuliangluo-tech-blog",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev docs --host 0.0.0.0 --port 8866",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs --host 0.0.0.0 --port 8866"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}
