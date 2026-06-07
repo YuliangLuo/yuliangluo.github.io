@@ -29,9 +29,6 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '文章', link: '/posts/' },
-      { text: '白盒测试Agent', link: '/posts/whitebox-test-agent' },
-      { text: '反向传播', link: '/posts/backpropagation-understanding' },
-      { text: '2026 Agent趋势', link: '/posts/agent-trends-2026' },
       { text: '关于', link: '/about' }
     ],
     sidebar: {
@@ -47,7 +44,8 @@ export default defineConfig({
           items: [
             { text: '白盒测试 Agent：从规则脚本到领域智能体', link: '/posts/whitebox-test-agent' },
             { text: '反向传播的理解：从链式法则到最小自动微分', link: '/posts/backpropagation-understanding' },
-            { text: '2026 Agent 趋势：从 Demo 到可验证工程系统', link: '/posts/agent-trends-2026' }
+            { text: '2026 Agent 趋势：从 Demo 到可验证工程系统', link: '/posts/agent-trends-2026' },
+            { text: 'MicroGrad_MLP_Training', link: '/posts/micrograd_mlp_training '}
           ]
         }
       ]
