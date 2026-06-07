@@ -14,15 +14,13 @@ At the center are three questions:
 2. How does `micrograd` relate to an `MLP`?
 3. What exactly happens during neural network training?
 
-A common typo is **Microguard**. The correct name is **micrograd**.
-
 ---
 
 ## Overview Diagram
 
 The following diagram summarizes the relationship between `micrograd`, `MLP`, and the neural network training loop.
 
-![micrograd, MLP, and Neural Network Training Practice](./micrograd_and_neural_network_training_guide.png)
+![micrograd, MLP, and Neural Network Training Practice](./Pic/micrograd_and_neural_network_training_guide.png)
 
 ---
 

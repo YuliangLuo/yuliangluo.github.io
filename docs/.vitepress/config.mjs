@@ -56,10 +56,6 @@ export default defineConfig({
     search: {
       provider: 'local'
     },
-    editLink: {
-      pattern: 'https://github.com/yuliangluo/yuliangluo.github.io/edit/main/docs/:path',
-      text: '在 GitHub 上编辑此页'
-    },
     footer: {
       message: 'Built with VitePress and GitHub Pages.',
       copyright: 'Copyright © 2026 Yuliang Luo'
