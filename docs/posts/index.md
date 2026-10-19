@@ -3,6 +3,7 @@
 ## 测试与 Agent
 
 - [白盒测试 Agent：从规则脚本到领域智能体](/posts/whitebox-test-agent)
+- [Hugging Face Agents Course：概念性知识笔记](/posts/huggingface-agents-course-concept-notes)
 
 ## 机器学习基础
 

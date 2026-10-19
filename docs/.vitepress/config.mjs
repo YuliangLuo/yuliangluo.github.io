@@ -42,6 +42,7 @@ export default defineConfig({
         {
           text: '技术文章',
           items: [
+            { text: 'Hugging Face Agents Course：概念性知识笔记', link: '/posts/huggingface-agents-course-concept-notes' },
             { text: '白盒测试 Agent：从规则脚本到领域智能体', link: '/posts/whitebox-test-agent' },
             { text: '反向传播的理解：从链式法则到最小自动微分', link: '/posts/backpropagation-understanding' },
             { text: '2026 Agent 趋势：从 Demo 到可验证工程系统', link: '/posts/agent-trends-2026' },
