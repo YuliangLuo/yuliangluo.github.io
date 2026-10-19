@@ -17,12 +17,12 @@ hero:
       link: /about
 
 features:
-  - title: 白盒测试 Agent
-    details: 从测试用例、日志解析、寄存器快照、状态机校验到自动报告生成。
-  - title: 反向传播理解
-    details: 从链式法则、计算图、局部梯度到最小自动微分实现。
-  - title: 2026 Agent 趋势
+  - title: Agent 开发趋势
     details: 从工具调用、MCP、Coding Agent 到生产级评测、权限、审计与可验证执行。
+  - title: 计算机科学
+    details: 编程语言、数据结构、操作系统、计算机网络、数据库系统、编译原理
+  - title: 机器学习基础
+    details: 用工程视角解释反向传播、自动微分、张量计算和训练循环。
 ---
 
 ## 技术方向
