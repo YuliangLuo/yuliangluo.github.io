@@ -48,3 +48,4 @@ features:
 - [白盒测试 Agent：从规则脚本到领域智能体](/posts/whitebox-test-agent)
 - [反向传播的理解：从链式法则到最小自动微分](/posts/backpropagation-understanding)
 - [2026 Agent 趋势：从 Demo 到可验证工程系统](/posts/agent-trends-2026)
+- [Huggingface Agents Cources concept](/posts/huggingface-agents-course-concept-notes)
